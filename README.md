@@ -1,4 +1,4 @@
-![header](./header.svg)
+![header](./header.png)
 
 
 ### Hello There.
@@ -8,4 +8,4 @@ Enjoy this cute ascii face.
 
 ʕっ•ᴥ•ʔっᶠᵘᶜᵏ ʸᵒᵘ
 
-![Footer](./footer.svg)
+![Footer](./footer.png)
