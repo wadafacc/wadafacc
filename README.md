@@ -1,7 +1,6 @@
 ![header](./header.png)
 
-
-<p style="text-align: center;">
+<p align="center">
 ### Hello There.
 
 I dont know what i'm doing, but it somehow seems to work. <br>
