@@ -8,4 +8,4 @@
 
 
 
-![Footer](./footer.png)
+![footer](./footer.png)
