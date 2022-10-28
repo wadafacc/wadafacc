@@ -1,6 +1,6 @@
 ![header](./header.png)
 
-    [![@wadafacc's Holopin board](https://holopin.io/api/user/board?user=wadafacc)](https://holopin.io/@wadafacc)
+    [![@wadafacc's Holopin board](https://holopin.io/api/user/board?user=wadafacc)](https://holopin.io/@wadafacc)]
 
 <p align="center">
     <i><b>Hello There.</b></i> <br>I dont know what i'm doing, but it somehow seems to work. <br>Enjoy this cute ascii face.  <br>ʕっ•ᴥ•ʔっᶠᵘᶜᵏ ʸᵒᵘ<br>
